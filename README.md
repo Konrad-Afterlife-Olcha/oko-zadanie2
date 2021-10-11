@@ -1,4 +1,4 @@
-# Zadanie 3
+# Zadanie 2
 
 Clone this repo and run:
 
